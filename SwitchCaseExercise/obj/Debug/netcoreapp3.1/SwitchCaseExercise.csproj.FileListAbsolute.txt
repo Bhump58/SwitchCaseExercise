@@ -1,0 +1,13 @@
+C:\Users\humph\source\repos\SwitchCaseExercise\SwitchCaseExercise\bin\Debug\netcoreapp3.1\SwitchCaseExercise.exe
+C:\Users\humph\source\repos\SwitchCaseExercise\SwitchCaseExercise\bin\Debug\netcoreapp3.1\SwitchCaseExercise.deps.json
+C:\Users\humph\source\repos\SwitchCaseExercise\SwitchCaseExercise\bin\Debug\netcoreapp3.1\SwitchCaseExercise.runtimeconfig.json
+C:\Users\humph\source\repos\SwitchCaseExercise\SwitchCaseExercise\bin\Debug\netcoreapp3.1\SwitchCaseExercise.runtimeconfig.dev.json
+C:\Users\humph\source\repos\SwitchCaseExercise\SwitchCaseExercise\bin\Debug\netcoreapp3.1\SwitchCaseExercise.dll
+C:\Users\humph\source\repos\SwitchCaseExercise\SwitchCaseExercise\bin\Debug\netcoreapp3.1\SwitchCaseExercise.pdb
+C:\Users\humph\source\repos\SwitchCaseExercise\SwitchCaseExercise\obj\Debug\netcoreapp3.1\SwitchCaseExercise.csprojAssemblyReference.cache
+C:\Users\humph\source\repos\SwitchCaseExercise\SwitchCaseExercise\obj\Debug\netcoreapp3.1\SwitchCaseExercise.AssemblyInfoInputs.cache
+C:\Users\humph\source\repos\SwitchCaseExercise\SwitchCaseExercise\obj\Debug\netcoreapp3.1\SwitchCaseExercise.AssemblyInfo.cs
+C:\Users\humph\source\repos\SwitchCaseExercise\SwitchCaseExercise\obj\Debug\netcoreapp3.1\SwitchCaseExercise.csproj.CoreCompileInputs.cache
+C:\Users\humph\source\repos\SwitchCaseExercise\SwitchCaseExercise\obj\Debug\netcoreapp3.1\SwitchCaseExercise.dll
+C:\Users\humph\source\repos\SwitchCaseExercise\SwitchCaseExercise\obj\Debug\netcoreapp3.1\SwitchCaseExercise.pdb
+C:\Users\humph\source\repos\SwitchCaseExercise\SwitchCaseExercise\obj\Debug\netcoreapp3.1\SwitchCaseExercise.genruntimeconfig.cache
